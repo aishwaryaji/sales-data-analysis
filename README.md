@@ -3,7 +3,7 @@ The objective of this mini project is to analyze sales data to identify patterns
 Used sedabasaran's repository on Sales Analysis to help understand the code and concept better. 
 
 
-WORKED UPON THE FOLLOWING QUESTIONS:
+## WORKED UPON THE FOLLOWING QUESTIONS:
 
 Which are the most selling products?
 Which are the Top 10 products by sales?
@@ -20,3 +20,5 @@ Which are the Top 10 country by sales?
 Which are the average shipping cost for top 10 different countries?
 Who are the top-10 most profitable customers?
 Total sales values by year and month.
+
+## Another dataset that I worked on to practice what I learnt earlier.
